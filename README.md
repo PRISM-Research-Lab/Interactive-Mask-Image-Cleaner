@@ -15,6 +15,8 @@ The tool is designed for researchers and students working with image segmentatio
 - **Image Preservation:** Maintain original image dimensions and unchanged pixel values in retained regions.
 - **Automatic Saving:** Save cleaned masks using the original filename in a designated output folder.
 
+**  Note: The image dimensions specified in the code are only for display purposes. They do not affect the output image, which will retain its original dimensions.**
+
 ## 2. Requirements
 
 - Python 3.9 or newer
