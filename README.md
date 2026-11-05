@@ -36,7 +36,7 @@ Download the repository from GitHub using **Code → Download ZIP**, then extrac
 Alternatively, clone it using Git:
 
 ```bash
-git clone https://github.com/Computational-Plant-Science/Interactive-Mask-Cleaner.git
+git clone https://github.com/Computational-Plant-Science/Interactive-Mask-Image-Cleaner.git
 ```
 
 Open the extracted or cloned project folder in PyCharm.
